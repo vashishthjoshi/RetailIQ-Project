@@ -1,4 +1,3 @@
-# RetailIQ-Project
 # 📊 RetailIQ — AI-Powered Retail Business Intelligence & Sales Forecasting Platform
 
 RetailIQ is a single-file, full-stack **Streamlit** web application that turns raw, messy
